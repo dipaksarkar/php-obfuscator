@@ -1,0 +1,66 @@
+2025-03-25 20:26:08 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/License_backup.php
+2025-03-25 20:26:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:26:08 ERROR:Error while obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php: [Errno 2] No such file or directory: '/home/YOUR_USERNAME/PROJECT_DIR/yakpro-po/yakpro-po.php'
+2025-03-25 20:26:08 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider_backup.php
+2025-03-25 20:26:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php
+2025-03-25 20:26:08 ERROR:Error while obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php: [Errno 2] No such file or directory: '/home/YOUR_USERNAME/PROJECT_DIR/yakpro-po/yakpro-po.php'
+2025-03-25 20:28:42 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider_backup.php
+2025-03-25 20:28:42 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/License_backup.php
+2025-03-25 20:28:42 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider_backup.php
+2025-03-25 20:28:42 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider_backup.php
+2025-03-25 20:28:42 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php
+2025-03-25 20:28:42 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php
+2025-03-25 20:28:42 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:28:42 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php
+2025-03-25 20:28:43 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php successfully
+2025-03-25 20:28:43 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php successfully
+2025-03-25 20:28:43 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php successfully
+2025-03-25 20:28:43 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:28:43 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider_backup.php
+2025-03-25 20:28:43 INFO:Created backup: /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider_backup.php
+2025-03-25 20:28:43 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php
+2025-03-25 20:28:43 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php
+2025-03-25 20:28:43 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php successfully
+2025-03-25 20:28:43 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php successfully
+2025-03-25 20:30:26 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:30:26 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:31:38 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:31:38 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:37:49 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:37:49 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:40:01 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php
+2025-03-25 20:40:01 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:40:01 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php
+2025-03-25 20:40:01 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php
+2025-03-25 20:40:01 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php successfully
+2025-03-25 20:40:01 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php successfully
+2025-03-25 20:40:01 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php
+2025-03-25 20:40:01 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php
+2025-03-25 20:40:01 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php successfully
+2025-03-25 20:40:01 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:40:02 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php successfully
+2025-03-25 20:40:02 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php successfully
+2025-03-25 20:41:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php
+2025-03-25 20:41:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php
+2025-03-25 20:41:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php
+2025-03-25 20:41:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:41:08 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php successfully
+2025-03-25 20:41:08 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php successfully
+2025-03-25 20:41:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php
+2025-03-25 20:41:08 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php
+2025-03-25 20:41:08 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:41:08 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php successfully
+2025-03-25 20:41:08 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php successfully
+2025-03-25 20:41:08 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php successfully
+2025-03-25 20:42:18 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/License.php
+2025-03-25 20:42:18 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php
+2025-03-25 20:42:18 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php
+2025-03-25 20:42:18 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php
+2025-03-25 20:42:19 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ShortcodeServiceProvider.php successfully
+2025-03-25 20:42:19 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmPermissionsServiceProvider.php successfully
+2025-03-25 20:42:19 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php
+2025-03-25 20:42:19 INFO:Obfuscating /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php
+2025-03-25 20:42:19 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/License.php successfully
+2025-03-25 20:42:19 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmServiceProvider.php successfully
+2025-03-25 20:42:19 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/CoderstmEventServiceProvider.php successfully
+2025-03-25 20:42:19 INFO:Obfuscated /Volumes/Work/laravel-core-source/src/Providers/ThemeServiceProvider.php successfully
