@@ -11,7 +11,7 @@ OUTPUT_DIR="$DEST_DIR/src/Providers"
 find $DEST_DIR -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.github' -exec rm -rf {} +
 
 # Copy all files from $SOURCE_DIR to $DEST_DIR
-rsync -av --exclude=".git/" --exclude="comments.txt"  --exclude="vendor/" --exclude="src/Providers/" --exclude="encode.sh" "$BASE_DIR/" "$DEST_DIR/"
+rsync -av --exclude=".git/" --exclude="comments.txt"  --exclude="vendor/" --exclude="src/Providers/" --exclude="encode.sh" --exclude="encoder.php" --exclude="loader.php" --exclude=".github/workflows" "$BASE_DIR/" "$DEST_DIR/"
 
 # Run the Python obfuscator script
 python3 /Volumes/Work/php-obfuscator/main.py <<EOF
@@ -34,5 +34,7 @@ for file in "$OUTPUT_DIR"/obfuscated_*; do
         mv "$file" "${file/obfuscated_/}"
     fi
 done
+
+php $BASE_DIR/encoder.php "$OUTPUT_DIR" "$OUTPUT_DIR"
 
 echo "Build completed: Files obfuscated, copied, and renamed."
